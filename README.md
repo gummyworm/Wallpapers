@@ -3,4 +3,4 @@ Wallpapers
 
 Android Live wallpapers 
 
-![alt text](screenshot.png"screenshot")
+![alt text](screenshot.png "screenshot")
